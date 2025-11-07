@@ -1,4 +1,20 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1> Hello!!! 👋</h1>
+I'm a **Software Engineering student** currently based in **Brazil**.
+
+---
+
+## 👨‍💻 Current Focus
+Currently, I am working as a **Full Stack Web Developer**.
+
+My ultimate dream is to one day work on developing **robust and secure software**.
+
+---
+
+## 💡 More About Me
+* **Age:** 24 years old.
+* **Journey:** I started my journey in web programming about a year and a half ago.
+* **Language:** I have a strong passion for the **English language** and am currently working hard on improving my skills.
+* **Hobbies:** In my free time, I enjoy **gaming** and **watching anime**.
 
 ###
 
