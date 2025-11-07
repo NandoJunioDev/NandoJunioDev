@@ -2,11 +2,15 @@
 I'm a **Software Engineering student** currently based in **Brazil**.
 
 ---
+<details>
 
-## 👨‍💻 Current Focus
+<summary>## 👨‍💻 Current Focus </summary>
 Currently, I am working as a **Full Stack Web Developer**.
 
 My ultimate dream is to one day work on developing **robust and secure software**.
+  
+</details>
+
 
 ---
 
