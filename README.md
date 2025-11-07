@@ -1,5 +1,8 @@
 <h1> Hello!!! 👋</h1>
-I'm a **Software Engineering student** currently based in **Brazil**.
+My name is Fernando, I love programming, and it was a passion that took me a while to realize, but today I won't give it up. 
+
+<br>
+I'm a <strong>Software Engineering</strong> student currently based in <Strong>Brazil.</Strong>
 
 ---
 
@@ -15,11 +18,11 @@ My ultimate dream is to one day work on developing **robust and secure software*
 ---
 <details>
 
-<summary>## 💡 More About Me </summary>
-* **Age:** 24 years old.
-* **Journey:** I started my journey in web programming about a year and a half ago.
-* **Language:** I have a strong passion for the **English language** and am currently working hard on improving my skills.
-* **Hobbies:** In my free time, I enjoy **gaming** and **watching anime**.
+<summary> 💡 <strong>More About Me</strong> </summary>
+<strong>Age: </strong>24 years old. <br>
+<strong>Journey:</strong> I started my journey in web  programming about a year and a half ago. <br>
+<strong>Language:</strong> I have a strong passion for the <br> English language and am currently working hard on improving my skills. <br>
+<strong>Hobbies:</strong> In my free time, I enjoy gaming and watching anime. <br>
 
 
 </details>
@@ -65,9 +68,13 @@ My ultimate dream is to one day work on developing **robust and secure software*
 <h2 align="left">📍 Repository & Projects</h2>
 <br>
 
-[API Para o Site NandoJunioDev](https://github.com/NandoJunioDev/njd-api)
+[API Para o Site NandoJunioDev🔗](https://github.com/NandoJunioDev/njd-api)
 <br>
-[Web  Site Front-End  Do NandoJunioDev ](https://github.com/NandoJunioDev/NJD)
+[Web  Site Front-End  Do NandoJunioDev 🔗 ](https://github.com/NandoJunioDev/NJD)
+<br>
+[Landing Page  Para  A Banda Ministerio Redenção  🔗 ](https://github.com/NandoJunioDev/Misterio-Renden-o)
+
+
 
 ###
 
