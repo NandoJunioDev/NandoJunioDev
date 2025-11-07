@@ -60,7 +60,7 @@ My ultimate dream is to one day work on developing **robust and secure software*
 
 ###
 
-<br clear='both">
+<br clear="both">
 
 <h2 align="left">📍 Repository & Projects</h2>
 <br>
