@@ -65,7 +65,7 @@ My ultimate dream is to one day work on developing **robust and secure software*
 <h2 align="left">📍 Repository & Projects</h2>
 <br>
 
-<h4>🔗</h4>[API Para o Site NandoJunioDev](https://github.com/NandoJunioDev/njd-api)
+[API Para o Site NandoJunioDev](https://github.com/NandoJunioDev/njd-api)
 
 ###
 
