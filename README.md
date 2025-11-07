@@ -13,15 +13,15 @@ My ultimate dream is to one day work on developing **robust and secure software*
 
 
 ---
-
-## 💡 More About Me
+<details>
+ <summary>>## 💡 More About Me </summary
 * **Age:** 24 years old.
 * **Journey:** I started my journey in web programming about a year and a half ago.
 * **Language:** I have a strong passion for the **English language** and am currently working hard on improving my skills.
 * **Hobbies:** In my free time, I enjoy **gaming** and **watching anime**.
 
 ###
-
+</details>
 <br clear="both">
 
 
